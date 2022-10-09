@@ -1,4 +1,4 @@
-//Pascal Triangle for Amazon SDE full time opportunity
+//Pascal Triangle for Amazon SDE full time opportunity as Code Assessment
 
 
 import java.util.*;
