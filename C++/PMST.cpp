@@ -13,6 +13,7 @@ using namespace std;
 // A utility function to find the vertex with
 // minimum key value, from the set of vertices
 // not yet included in MST
+// new comment
 int minKey(int key[], bool mstSet[])
 {
 	// Initialize min value
